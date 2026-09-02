@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+ol{
+	font-style:italic;
+	font-weight:bold;
+}
+ul{
+	font-style:italic;
+	font-weight:bold;
+}
